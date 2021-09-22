@@ -2,7 +2,7 @@
   "name": "app",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Scott Moss <willscottmoss@gmail.com>",
+  "author": "Ravi Shyam",
   "license": "MIT",
   "dependencies": {
     "@theme-ui/presets": "^0.3.0",
